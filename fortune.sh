@@ -34,7 +34,7 @@ done
 # Print the response
 echo -e "\n${RESPONSES[$N]}"
 
-
+# Comments
 : ' 
   until [[ CONDITION ]]
 do
